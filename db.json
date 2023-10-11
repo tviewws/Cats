@@ -1,0 +1,93 @@
+{
+  "cats": [
+    {
+      "id": 1,
+      "name": "Whiskers",
+      "breed": "Siamese",
+      "color": "Seal Point",
+      "age": "3 years",
+      "image": "https://i0.wp.com/thediscerningcat.com/wp-content/uploads/2023/08/Siamese_Cat_Sitting.jpg?resize=1200%2C800&ssl=1"
+    },
+    {
+      "id": 2,
+      "name": "Luna",
+      "breed": "Maine Coon",
+      "color": "Tabby",
+      "age": "2 years",
+      "image": "https://www.hepper.com/wp-content/uploads/2021/07/tabby-maicoon-lying_Rosa-Jay-Shutterstock.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Oliver",
+      "breed": "British Shorthair",
+      "color": "Blue",
+      "age": "4 years",
+      "image": "https://www.thesprucepets.com/thmb/2HF5pGwbA1_74qlubXRyEM_xxlk=/2121x0/filters:no_upscale():strip_icc()/GettyImages-1319774380-c3da91f9259a47e0966007f8e10690ba.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bella",
+      "breed": "Ragdoll",
+      "color": "Bicolor",
+      "age": "1.5 years",
+      "image": "https://www.ragdollqueen.com/en/wp-content/uploads/sites/2/2015/10/ragdoll-bicolor-1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Simba",
+      "breed": "Bengal",
+      "color": "Spotted Rosetted",
+      "age": "2.5 years",
+      "image": "https://www.wildrosebengals.ca/uploads/1/5/7/8/15785448/240251_orig.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Mia",
+      "breed": "Persian",
+      "color": "White",
+      "age": "5 years",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/002/986/119/original/white-persian-cat-looking-at-the-camera-it-s-following-something-with-his-blue-eyes-free-video.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Leo",
+      "breed": "Scottish Fold",
+      "color": "Orange Tabby",
+      "age": "3 years",
+      "image": "https://hypoallergenichomes.com/wp-content/uploads/2021/01/scottish-fold-hypoallergenic.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Chloe",
+      "breed": "Sphynx",
+      "color": "Pink",
+      "age": "2 years",
+      "image": "https://www.yeswarmg.com/wp-content/uploads/2021/12/Sphynx-Clothing-LV-Jumper-for-Cat-Sphynx-Cat-Outfits-Blue-Grey-Pink-1.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Max",
+      "breed": "American Shorthair",
+      "color": "Tuxedo",
+      "age": "4 years",
+      "image": "https://cf.ltkcdn.net/cats/cat-breeds/images/orig/322768-1600x1030-tuxedo-cat-breed-facts-pictures.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Nala",
+      "breed": "Burmese",
+      "color": "Chocolate",
+      "age": "1 year",
+      "image": "https://www.zooplus.co.uk/magazine/wp-content/uploads/2021/09/Burmese.jpg"
+    },
+    {
+      "name": "Mittens",
+      "breed": "Siamese",
+      "age": "4",
+      "color": "Lilac Point",
+      "image": "https://www.hepper.com/wp-content/uploads/2021/08/Lilac-point-siamese-cat_Ivonne-Wierink-Shutterstock.jpg",
+      "id": 11
+    }
+   
+  ]
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" type="text/css" href="add-cat-styles.css">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Add a Cat</title>
+    </head>
+    <body>
+        <form action="process-cat.php" method="post" enctype="multipart/form-data" id="form">
+            <label for="catImage">Cat Image:</label>
+            <input type="text" id="catImage" name="catImage" required><br>
+
+            <label for="catName">Name:</label>
+            <input type="text" id="catName" name="catName" required><br>
+
+            <label for="catAge">Age:</label>
+            <input type="number" id="catAge" name="catAge" required><br>
+
+            <label for="catBreed">Breed:</label>
+            <input type="text" id="catBreed" name="catBreed" required><br>
+
+            <label for="catColor">Color:</label>
+            <input type="text" id="catColor" name="catColor" required><br>
+
+            <input type="submit" value="Add Cat">
+        </form>
+        <script src="add-cat.js"></script>
+    </body>
+</html>
