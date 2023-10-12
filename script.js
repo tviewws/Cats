@@ -35,6 +35,7 @@ const renderCats = (cats) => {
         const image = document.createElement('img');
         image.src = cat.image;
         image.alt = `${cat.color} ${cat.breed}`;
+        image.style.height = '180px';
 
         card.appendChild(name);
         card.appendChild(image);
