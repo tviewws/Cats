@@ -22,11 +22,12 @@ body {
     text-align: center;
     background-color: rgba(31, 27, 6, 0.934);
     border-radius: 5px; 
-    box-shadow: 0 4px 8px rgba(234, 222, 222, 0.2);
+    box-shadow: 0 4px 8px rgba(225, 11, 11, 0.2);
     padding: 10px;
     margin: 10px; 
     width: 250px;
-    height: 350px; 
+    height: 290x;
+    border-radius: 60px;
     transition: transform 0.2s;
 }
 
@@ -39,7 +40,7 @@ h2 {
 }
 
 p {
-    color: #888; /* Slightly brighter shade for text */
+    color: #c5a7a7; /* Slightly brighter shade for text */
 }
 
 img {
