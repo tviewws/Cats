@@ -21,12 +21,12 @@ body {
 .card {
     text-align: center;
     background-color: rgba(31, 27, 6, 0.934);
-    border-radius: 5px; /* Reduce the border-radius for squared corners */
+    border-radius: 5px; 
     box-shadow: 0 4px 8px rgba(234, 222, 222, 0.2);
-    padding: 10px; /* Increase the padding for more spacing inside the cards */
-    margin: 10px; /* Adjust margin for better spacing between cards */
-    width: 250px; /* Set a fixed width for all cards */
-    height: 350px; /* Set a fixed height for all cards */
+    padding: 10px;
+    margin: 10px; 
+    width: 250px;
+    height: 350px; 
     transition: transform 0.2s;
 }
 
