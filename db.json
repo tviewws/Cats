@@ -87,6 +87,14 @@
       "color": "Lilac Point",
       "image": "https://www.hepper.com/wp-content/uploads/2021/08/Lilac-point-siamese-cat_Ivonne-Wierink-Shutterstock.jpg",
       "id": 11
+    },
+    {
+      "name": "JJ",
+      "breed": "Nigerian",
+      "age": "1",
+      "color": "black",
+      "image": "https://static01.nyt.com/images/2021/09/14/science/07CAT-STRIPES/07CAT-STRIPES-superJumbo.jpg",
+      "id": 12
     }
    
   ]
